@@ -1,2 +1,2 @@
 # Matplotlib_Basics
-Matplotlib is a comprehensive library fo ceating static, animated and interactive visualizations in python.
+Matplotlib is a comprehensive library for creating static, animated and interactive visualizations in python.
